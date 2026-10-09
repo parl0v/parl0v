@@ -3,6 +3,7 @@
     <p>🌱 I’m currently learning <b>C</b> and <b>C++</b></p>
     <p>📫 You can reach me at <a href="mailto:josipparlov@protonmail.com">josipparlov@protonmail.com</a></p>
     <p>👨‍💻 Go check out some of my projects!</p>
+    <p>⭐ Featured: <a href="https://github.com/parl0v/nidhunt"><b>nidhunt</b></a> — recover PS5 library function names from NID hashes (C++ / OpenCL).</p>
     <h3>Programming Languages:</h3>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>

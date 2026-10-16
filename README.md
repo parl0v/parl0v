@@ -11,7 +11,7 @@ I've been writing code since I was 11, with 140+ projects since: games, browser 
 
 #### Things I've built
 
-| Project | |
+| Project | What it does |
 |---|---|
 | **[LudusCtrl](https://github.com/parl0v/ludusctrl)** | Use your phone's Bluetooth to connect a gamepad to a PC that has none. Android app plus an open-source Windows receiver with signed pairing. |
 | **[nidhunt](https://github.com/parl0v/nidhunt)** | A C / OpenCL tool that recovers PS5 library function names from their hashes, about 1.67 billion guesses a second on an RTX 4060. |
@@ -22,7 +22,7 @@ I also contribute to [AnyPS5](https://github.com/boykopovar/AnyPS5), a tool that
 
 #### What I work in
 
-| Area | |
+| Area | Stack |
 |---|---|
 | **Languages** | C++ · C · Python · C# · Kotlin · JavaScript / TypeScript · Lua · PHP |
 | **Graphics & compute** | Vulkan · OpenCL |

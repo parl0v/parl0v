@@ -1,14 +1,30 @@
-<div align="center">
-    <h1>Hi 👋, I'm Josip</h1>
-    <p>🌱 I’m currently learning <b>C</b> and <b>C++</b></p>
-    <p>📫 You can reach me at <a href="mailto:josipparlov@protonmail.com">josipparlov@protonmail.com</a></p>
-    <p>👨‍💻 Go check out some of my projects!</p>
-    <p>⭐ Featured: <a href="https://github.com/parl0v/nidhunt"><b>nidhunt</b></a> — recover PS5 library function names from NID hashes (C++ / OpenCL).</p>
-    <h3>Programming Languages:</h3>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-    <h3>Frontend Development:</h3>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-</div>
+### Hi, I'm Josip.
+
+I've been writing code since I was 11, with 140+ projects since: games, browser extensions, Android apps, websites for real businesses and low-level tools. I'm self-taught and based in Croatia.
+
+<samp>
+<a href="mailto:josipparlov@protonmail.com">email</a> ·
+<a href="https://www.linkedin.com/in/josipparlov">linkedin</a>
+</samp>
+
+---
+
+#### Things I've built
+
+| Project | |
+|---|---|
+| **[LudusCtrl](https://github.com/parl0v/ludusctrl)** | Use your phone's Bluetooth to connect a gamepad to a PC that has none. Android app plus an open-source Windows receiver with signed pairing. |
+| **[nidhunt](https://github.com/parl0v/nidhunt)** | A C / OpenCL tool that recovers PS5 library function names from their hashes, about 1.67 billion guesses a second on an RTX 4060. |
+| **s&box games** | [*s&terminal*](https://sbox.game/twoho/s_terminal), which shipped in 2025, and [*HEAT*](https://sbox.game/twoho/heat), a multiplayer sandbox, both written in C#. |
+| **Websites** | Sites for local businesses, from a yacht charter to a hair salon, deployed on Cloudflare. |
+
+I also contribute to [AnyPS5](https://github.com/boykopovar/AnyPS5), a tool that ports PS5 games to PC, mostly GPU performance on Windows ([merged PRs](https://github.com/boykopovar/AnyPS5/pulls?q=is%3Apr+author%3Aparl0v+is%3Amerged)).
+
+#### What I work in
+
+| Area | |
+|---|---|
+| **Languages** | C++ · C · Python · C# · Kotlin · JavaScript / TypeScript · Lua · PHP |
+| **Graphics & compute** | Vulkan · OpenCL |
+| **Platforms** | Windows · Android · Chrome extensions · s&box · Cloudflare Workers / Pages |
+| **Tools** | IDA · CMake · Git · Android Studio |

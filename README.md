@@ -18,7 +18,7 @@ I've been writing code since I was 11, with 140+ projects since: games, browser 
 | **s&box games** | [*s&terminal*](https://sbox.game/twoho/s_terminal), which shipped in 2025, and [*HEAT*](https://sbox.game/twoho/heat), a multiplayer sandbox, both written in C#. |
 | **Websites** | Sites for local businesses, from a yacht charter to a hair salon. |
 
-I also contribute to [AnyPS5](https://github.com/boykopovar/AnyPS5), a tool that ports PS5 games to PC, mostly GPU performance on Windows ([merged PRs](https://github.com/boykopovar/AnyPS5/pulls?q=is%3Apr+author%3Aparl0v+is%3Amerged)).
+I also contribute to [AnyPS5](https://github.com/boykopovar/AnyPS5), a tool that ports PS5 games to PC, mostly GPU performance on Windows ([my pull requests](https://parl0v.github.io/anyps5/)).
 
 #### What I work in
 
